@@ -10,6 +10,6 @@ I am a student of Computer Science at the State University of Paraíba.
 ##### 📫 Contact me.
 [![Outlook](https://img.shields.io/badge/outlook-diegomunizdev@outlook.com-blue?logo=outlook&logoColor=Red&labelColor=grey)](mailto:diegomunizdev@outlook.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-Diego%20Muniz-blue?logo=Linkedin&logoColor=blue&labelColor=grey)](https://www.linkedin.com/in/diegomuniz13/)
 
-<img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=diegomunizdev&theme=dark&show_icons=true&hide_border=true"/>
+<img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=diegomunizdev&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomunizdev&layout=compact&theme=dark&hide_border=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomunizdev&theme=dark)](https://github.com/diegomunizdev/github-readme-stats)
